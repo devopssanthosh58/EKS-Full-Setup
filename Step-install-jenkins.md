@@ -20,4 +20,4 @@ sudo systemctl status jenkins
 ```
 If everything has been set up correctly, you should see an output like this:
 
-![output To Attach](https://github.com/jaiswaladi246/EKS-Complete/blob/main/Policies.png)
+![output To Attach](https://github.com/devopssanthosh58/EKS-Full-Setup/blob/main/jenkins.png)
