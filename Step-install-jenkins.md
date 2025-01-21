@@ -12,3 +12,12 @@ sudo apt-get update
 sudo apt-get install jenkins
 
 ```
+## Start Jenkins
+```bash
+sudo systemctl enable jenkins
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+```
+If everything has been set up correctly, you should see an output like this:
+
+![output To Attach](https://github.com/jaiswaladi246/EKS-Complete/blob/main/Policies.png)
