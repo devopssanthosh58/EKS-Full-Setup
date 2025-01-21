@@ -1,6 +1,3 @@
-### Install Jenkins on your linux-Machine based on Different flavours.
-
-[download link](https://www.jenkins.io/doc/book/installing/linux/.)
 
 ## To install Debian/Ubuntu (LTS)
 
@@ -21,3 +18,7 @@ sudo systemctl status jenkins
 If everything has been set up correctly, you should see an output like this:
 
 ![output To Attach](https://github.com/devopssanthosh58/EKS-Full-Setup/blob/main/jenkins.png)
+
+### Install Jenkins to Different flavours Linux Distribution.
+
+[download link](https://www.jenkins.io/doc/book/installing/linux/.)
